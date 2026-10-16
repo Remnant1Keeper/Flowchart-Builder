@@ -1,0 +1,124 @@
+Flowchart Builder — End User License Agreement
+Version 1.6
+Copyright (c) 2026. All rights reserved.
+
+
+PREAMBLE
+--------
+
+This document is a proprietary license. Flowchart Builder (the
+"Software") is free to use but is NOT open source. The source code is
+closed. By downloading, installing, running or otherwise using the
+Software, you agree to the terms below.
+
+
+1. GRANT OF LICENSE
+-------------------
+
+Subject to the restrictions in Section 3, you are granted a worldwide,
+royalty-free, non-exclusive, non-transferable license to:
+
+  a) download and run the official, unmodified builds of the Software;
+
+  b) use the Software to create, edit, store and export your own
+     flowcharts, code and related materials ("Your Content");
+
+  c) use the Software for personal, educational and internal commercial
+     purposes (including inside a company, without paying any fee);
+
+  d) share a link to the official repository and to the official,
+     unmodified release archives;
+
+  e) use Your Content (flowcharts, exported images, generated code) for
+     any purpose, including commercial, without restriction.
+
+
+2. OWNERSHIP
+------------
+
+The Software, including its source code, binaries, assets, design,
+documentation, and the Flowchart Builder name, are and remain the
+exclusive property of the author. This license grants limited use
+rights only — it does not transfer any ownership.
+
+
+3. RESTRICTIONS
+---------------
+
+You may NOT, without prior written permission from the author:
+
+  a) redistribute, publish, mirror, host, upload or otherwise make
+     available the source code of the Software (including but not
+     limited to the files main.py, gui.py, logic.py, logic_langs.py,
+     error_checks.py and any other .py files that form the Software);
+
+  b) modify, adapt, translate, reverse-engineer, decompile, disassemble
+     or create derivative works of the Software or any part of it;
+
+  c) repackage, rebrand, or bundle the Software (or any part of it)
+     into another application, product or service;
+
+  d) sell, rent, lease, sublicense or otherwise commercially exploit
+     the Software itself (as opposed to Your Content created with it);
+
+  e) remove, obscure or alter any copyright notices, license notices,
+     watermarks or attribution messages contained in the Software;
+
+  f) use the Software's name, logo or branding to promote a
+     derivative product or to imply endorsement without written consent.
+
+
+4. RETROACTIVE COVERAGE
+-----------------------
+
+All previous versions of the Software, including any earlier public
+releases, previews, betas, or source distributions, are retroactively
+covered by this license. Their source code must no longer be
+redistributed, published or made available. If you maintain a public
+fork or mirror of any earlier version, you must take it down.
+
+
+5. THIRD-PARTY COMPONENTS
+-------------------------
+
+The Software is distributed together with third-party libraries
+(notably PySide6 / Qt). Those libraries are covered by their own
+licenses and their notices must be respected independently of this
+document.
+
+
+6. NO WARRANTY
+--------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+7. TERMINATION
+--------------
+
+This license is effective until terminated. It terminates automatically
+if you breach any of its terms. Upon termination you must stop using
+the Software and destroy all copies of the Software in your possession.
+
+
+8. COMMERCIAL LICENSING
+-----------------------
+
+For commercial licensing, OEM bundling, white-label distribution, or
+acquisition inquiries, please contact the author through the
+repository's issue tracker or the contact details published in the
+project's profile.
+
+
+9. CHANGES TO THIS LICENSE
+--------------------------
+
+The author reserves the right to release new versions of the Software
+under updated license terms. Terms already granted to a specific
+version remain in effect for that version.
