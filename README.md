@@ -95,20 +95,25 @@ python main.py
 ## ✨ Features
 
 ### Two-way editing
+
 - **Code → Flowchart**: paste or load code, press `F5`, get a clean, colored diagram with proper yes/no branches, back-arrows for loops and multi-column layout for large programs.
 - **Flowchart → Code**: build or edit blocks by hand, press `F6`, get idiomatic, runnable Python or C++ — with automatic type inference, `#include` collection and `using namespace std;`.
 
 ### Languages
+
 - **Python** and **C++** with full round-trip fidelity: a line parsed from code in the same language is reused verbatim. Switching languages translates constructs (`print` ↔ `cout`, `sum` ↔ `accumulate`, `len` ↔ `.size()`, …).
 - **Auto-detect** mode: leave the dropdown on `Auto` and the app picks Python or C++ from the code itself.
 
 ### Auto-fix engine
+
 Before building the diagram the app scans your code and offers one-click fixes:
+
 - **Python**: missing `:`, wrong indentation, `print x` (Python 2 style), `::` after a header, `=` instead of `==`, unclosed brackets and quotes, tabs in indentation, and more.
 - **C++**: missing `;`, missing `#include`, missing `using namespace std;`, wrong I/O direction (`cin <<` / `cout >>`), conditions without parentheses, two statements glued on one line, missing `return 0;`, and more.
 - Optional **undeclared variable** check (reads before declarations). For C++ the dialog can insert `int x;` declarations automatically.
 
 ### Diagram
+
 - Full block palette: **Start / End**, **Process**, **Input / Output**, **Condition (if / elif / else)**, **While loop**, **For loop**, **Comment** (with a folded corner).
 - **Collapse / expand** any condition or loop — the branch disappears on the diagram *and* its code is folded in the editor. Both stay in sync.
 - **Copy / paste** entire block subtrees.
@@ -117,6 +122,7 @@ Before building the diagram the app scans your code and offers one-click fixes:
 - **Comment blocks** attached to conditions and loops are drawn as small sticky notes off to the side.
 
 ### Editor
+
 - Python and C++ syntax highlighting, theme-aware.
 - Line numbers with error marks, fold indicators, current-line highlight.
 - **Auto-completion**: keywords, builtins, plus all identifiers extracted from your code (variables, function params, ranges, `cin >>` targets).
@@ -124,12 +130,14 @@ Before building the diagram the app scans your code and offers one-click fixes:
 - **Fold** loops and conditions directly from the gutter.
 
 ### Themes
+
 - **12 built-in themes**: dark neon (`Cyberpunk`, `Red Neon`, `Midnight Blue`, `Emerald`, `Sunset`, `Graphite`, `True Black`), light (`Solarized Light`, `GitHub Light`, `Paper`) and two customizable ones.
 - **Custom accent colors** per theme: accent, border, arrow — with a live color picker.
 - **Uniform block color** mode — one color for every block, handy for printing.
 - Optional **grid** on the diagram canvas.
 
 ### Sessions & files
+
 - **Autosave** with configurable interval.
 - **Crash recovery**: on the next launch after an unexpected close, a dialog offers to restore unsaved work.
 - **Unsaved changes guard** on close.
@@ -137,10 +145,12 @@ Before building the diagram the app scans your code and offers one-click fixes:
 - **Schemas list** with search, sort by date or name, inline rename, delete, double-click to load, `Ctrl+↑` / `Ctrl+↓` to cycle.
 
 ### Export
+
 - **PNG** (color or black & white with optional inversion), **PDF** (A4, orientation chosen automatically), **SVG** (vector, color).
 - Grid is hidden on export; generous margins so nothing is clipped.
 
 ### Developer mode
+
 Off by default, toggled in Settings. Adds a log console (filterable by category), a sandbox for running internal operations, and a test runner that streams output from `tests/run_all.py`.
 
 ---
