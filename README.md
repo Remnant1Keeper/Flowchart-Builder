@@ -15,7 +15,12 @@
 
 ## 📸 Screenshots
 
-*(screenshots will be added soon)*
+<img width="1920" height="1080" alt="Full_view" src="https://github.com/user-attachments/assets/b83ac907-3841-4a85-aab5-d7e0697b660a" />
+<img width="1920" height="1080" alt="Themes" src="https://github.com/user-attachments/assets/9d99a05d-3c47-4790-95f1-6e100b8b6a63" />
+<img width="1920" height="1080" alt="Helping" src="https://github.com/user-attachments/assets/ff1eb4c9-2306-4aa7-bc4e-038d366f4b2f" />
+<img width="1920" height="1080" alt="Settings" src="https://github.com/user-attachments/assets/5e175abb-437e-49a1-a083-460c533362f1" />
+<img width="2963" height="1529" alt="exported_diagram" src="https://github.com/user-attachments/assets/0b23b8a0-257b-4576-8016-8fd4d5a01f34" />
+
 
 ---
 
