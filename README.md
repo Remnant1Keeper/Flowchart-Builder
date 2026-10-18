@@ -21,15 +21,14 @@
 
 ## 📥 Installation
 
-### Option 1: Ready-to-use application (recommended)
+### Option 1: Windows Installer (recommended)
 
 1. Go to the **Releases** section of this repository.
-2. Download the latest `FlowchartBuilder-vX.X-win64.zip`.
-3. **Extract the whole archive** into a dedicated, empty folder of your choice (e.g. `C:\Tools\Flowchart Builder\`). The archive already contains the `.exe` and its companion `_internal/` folder — they must stay together.
-4. Run `Flowchart Builder.exe` from inside that folder.
-5. On first launch the app creates its working files (`config.json`, `blueprints/`, `exports/`, `recovery.json`) in the same folder. Everything stays self-contained — nothing is written to the registry or your user profile. You can move the folder to a USB stick at any time.
+2. Download the latest `FlowchartBuilder-Setup-vX.X.exe`.
+3. Run the installer and follow the wizard.
+4. Launch **Flowchart Builder** from your Start Menu or Desktop shortcut.
 
-> ⚠️ Do not extract only the `.exe` — the app will not launch without `_internal/`.
+> 💡 The installer will automatically place all required files (including Qt DLLs and internal folders) where they belong. No administrator rights required. All your schemas, exports, and settings will be stored safely in your user profile, so updating to future versions will not overwrite your work.
 
 ### Option 2: Running from source code (authorized use only)
 
