@@ -190,7 +190,7 @@ This is the first public release of the rebuilt Flowchart Builder. Everything be
 - 🌐 **More languages** — Java, C#, Pascal, JavaScript, and possibly Russian-style pseudocode.
 - 🧱 **More block types and functions** — switch/case, try/except, arrays, dictionaries, file I/O, custom subroutines.
 - 🖐️ **Free-form diagram building** — place and connect blocks by hand without being tied to a strict tree.
-- 📚 **PDF / DOCX worksheet export** — printable assignments straight from the app.
+- 📚 **Worksheet generator** — create full printable PDF assignments (combining the diagram, the source code, and task descriptions) for teachers.
 
 ---
 
